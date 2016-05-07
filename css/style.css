@@ -1,0 +1,11 @@
+h1 {color :blue}
+img{ 
+  width :150px;
+}
+body{
+  background-color:pink;
+  border:10px solid orange;
+  width:350px;
+  margin:50px auto;
+  padding:30px;
+}
